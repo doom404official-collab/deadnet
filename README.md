@@ -23,16 +23,17 @@ Something is moving inside the network.
 
 ## OFFICIAL LINKS
 
-X: Coming Soon  
-Token Contract: Not launched  
-Pump.fun: Not launched
+**X:** https://x.com/DEADNET404
 
-## CONTRACT
+**Solana Contract Address (CA):**
 
-The official DEADNET contract address will be published here after launch.
+`84JktPQVLEuiQwv9amZWE6hcABxHo3UFVhYgpuRFpump`
 
-Do not trust contract addresses posted anywhere else unless they match
-the address shown in this repository and the official DEADNET X account.
+⚠️ Always verify the contract address through our official channels before interacting with the token.
+
+---
+
+DEADNET // SIGNAL DETECTED
 
 ## DISCLAIMER
 
